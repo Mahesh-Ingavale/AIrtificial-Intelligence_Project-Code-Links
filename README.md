@@ -6,3 +6,8 @@ https://drive.google.com/drive/folders/1pFUcR63CdWjYLqBgSMsZ82wLRzgj5Zly?usp=sha
 
 Image Classification Projoct Link
 https://drive.google.com/drive/folders/1TOVUYvtk9je3CJ_hsbMHb6OD3QLa-jQk?usp=sharing
+
+Real Estate Website Design ( ASP.NET, HTML/CSS )
+https://drive.google.com/drive/folders/1rlrfWuPj-ihf6L4BXtzBAN94vs7Clzbx?usp=sharing
+
+Microsoft SQL Server Database Queries
